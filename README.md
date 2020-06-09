@@ -1,6 +1,6 @@
 # Implement debounce decorator
 
-[DEMO LINK](https://github.com/velzepooz/debounce/tree/gh-pages)
+[DEMO LINK](https://velzepooz.github.io/debounce/)
 
 * It takes a function and a delay as arguments and returns a wrapper function
 * The original function should be called only after a given delay in wrapper calls
